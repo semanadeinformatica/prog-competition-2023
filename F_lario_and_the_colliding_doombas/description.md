@@ -18,7 +18,7 @@ Stomping them gets boring quickly... ask Lario, he has been doing it for years n
 
 Lario wants your help to figure out how many seconds he has to wait for a platform that is L blocks long (extending from the coordinate 0 to L) and has D Doombas on it, to be completely empty (with no Doombas on it). 
 
-For this problem purposes, consider the size of a doomba to be a single point. No two doombas will share the same initial x coordinate. All doombas will advance with a speed of 1 block per second.
+For this problem purposes, consider the size of a doomba to be a single point. No two doombas will share the same initial x coordinate, however they may occupy the same coordinate by a single second, inverting their directions afterwards. All doombas will advance with a speed of 1 block per second.
 
 ## Input
 The first line of the input contains two integers L, the length of the platform in blocks, and D, the number of doombas on the platform.

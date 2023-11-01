@@ -24,7 +24,7 @@ The third line of each test case contains three integers C, H, and D, the number
 
 - 1 ≤ LH, BH ≤ 10<sup>15</sup>
 - 1 ≤ LD, BD ≤ 10<sup>9</sup>
-- 1 ≤ C ≤ 10<sup>5</sup>
+- 0 ≤ C ≤ 10<sup>5</sup>
 - 1 ≤ H, D ≤ 10<sup>9</sup>
 
 ## Output
