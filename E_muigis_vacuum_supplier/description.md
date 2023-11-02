@@ -1,7 +1,7 @@
 # Vacuum Cleaning
 
 ## Original Problem
-https://open.kattis.com/problems/bungeebuilder
+https://codeforces.com/problemset/problem/1739/E
 
 ## Description
 Professor E. Gadd developed a new robot to help him on his chores. Can you setup the hallway so that the robot doesn't malfunction
